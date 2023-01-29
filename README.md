@@ -9,12 +9,12 @@
 
 您可以通过以下方式参与：
 
-1. 问卷
+1. 填写问卷
 
-点击[链接](https://www.wenjuan.com/s/b2AbUne/?group=GitHub)填写问卷
+点击 [链接](https://www.wenjuan.com/s/b2AbUne/?group=GitHub) 填写
 
 或者扫描下方二维码
 
 ![问卷](/images/GitHub.png)
 
-2. 提交[PR](https://github.com/boringhex-top/awesome-companies-for-ee/edit/main/README.md)
+2. 提交 [PR](https://github.com/boringhex-top/awesome-companies-for-ee/edit/main/README.md)
