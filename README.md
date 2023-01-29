@@ -17,5 +17,4 @@
 
 ![问卷](/images/GitHub.png)
 
-2. 提交Issues
-3. 提交PR
+2. 提交[PR](https://github.com/boringhex-top/awesome-companies-for-ee/edit/main/README.md)
